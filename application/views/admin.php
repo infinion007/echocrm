@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Dashboard</title>
+    <title>Echobooom - CRM</title>
 
     <!-- Custom fonts for this template-->
     <link href="<?php echo base_url().'/assets/vendor/fontawesome/css/all.min.css'; ?>" rel="stylesheet" type="text/css">
@@ -142,16 +142,14 @@
                 <button class="rounded-circle border-0" id="sidebarToggle"></button>
             </div>
 
-            <!-- Sidebar Message -->
+            <!-- Sidebar Message
             <div class="sidebar-card">
                 <img class="sidebar-card-illustration mb-2" src="<?php echo base_url().'/assets/img/undraw_rocket.svg'; ?>" alt="">
-                <p class="text-center mb-2"><strong>SB Admin Pro</strong> is packed with premium features, components, and more!</p>
-                <a class="btn btn-success btn-sm" href="https://startbootstrap.com/theme/sb-admin-pro">Upgrade to Pro!</a>
+                <p class="text-center mb-2"><strong>Echobooom</strong> Management and Entrepreneurial Solutions Private Limited</p>
+                <a class="btn btn-success btn-sm">Don't Forget to Logout</a>
             </div>
-
+            End of Sidebar -->
         </ul>
-        <!-- End of Sidebar -->
-
         <!-- Content Wrapper -->
         <div id="content-wrapper" class="d-flex flex-column">
 
@@ -753,7 +751,7 @@
     <!-- Page level custom scripts -->
     <script src="<?php echo base_url().'/assets/js/demo/chart-area-demo.js'; ?>"></script>
     <script src="<?php echo base_url().'/assets/js/demo/chart-pie-demo.js'; ?>"></script>
-
+    <script src="https://kit.fontawesome.com/de38b40c59.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
